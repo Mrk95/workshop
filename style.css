@@ -1,0 +1,80 @@
+<!doctype html>
+
+<html lang="en">
+
+
+
+<head>
+
+  <title>Hello, world!</title>
+
+  <meta charset="utf-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet"> 
+
+</head>
+  <header>
+    <nav>
+      <ul>
+        <li><a href='#home'>Home</a></li>
+        <li><a href='#about'>About</a></li>
+       <li><a href='#projects'>Projects</a></li>
+      </ul>
+    </nav>
+  </header>
+    <main>
+      <section id="home" class="homepage-section">
+        <img src='http://fredassets.s3-eu-west-1.amazonaws.com/uploads/sites/8/2015/06/UAB.jpg'/>
+        <h1>Workshop Web 101
+        </h1>
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vitae magnam hic fuga quaerat soluta tempore tenetur molestias, ad aspernatur, laudantium sit porro sed laborum quae nemo! Natus nam nihil unde.</p>
+      </section>
+      
+      <section id="about" class="homepage-section">
+       
+        <h2>Start with the basics of web develpment</h2>
+        <ol>
+         <li>Content and Designli
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda minus, consectetur quaerat aliquid commodi, iusto aliquam doloremque, eligendi quae possimus debitis. Non dicta nisi veritatis labore suscipit doloribus voluptas aliquam.</p></li>
+         <li>HTML
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat rerum ullam molestias rem non quasi aliquam iste ipsa autem similique. Eveniet, ut. Porro eveniet quasi reiciendis atque tempore molestiae in.</p></li>
+         <li>CSS
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis assumenda ut tempore doloremque id consectetur quos odio blanditiis non, voluptates sapiente error eveniet suscipit numquam sed inventore praesentium illo magnam.</p></li>
+        </ol>
+      </section>
+      
+      <section id="projects" class="homepage-section">
+      <ul><li><a href="#"> <img src="http://fredassets.s3-eu-west-1.amazonaws.com/uploads/sites/8/2015/06/UAB.jpg"> </a></li>
+      <li><a href="#"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Las_cuatro_columnas_en_la_UAB.jpg/1200px-Las_cuatro_columnas_en_la_UAB.jpg"> </a></li>
+      <li><a href="#"> <img src="http://webfacil.tinet.org/usuaris/jmblasco/MapaCampus_UAB-_Facultat_Comunicacio_20090105143434.jpg"> </a></li>
+        
+       <li><a href="#"> <img src="http://fredassets.s3-eu-west-1.amazonaws.com/uploads/sites/8/2015/06/UAB.jpg"> </a></li></ul>
+     
+        
+      </section>
+    
+  </main>
+           <footer>
+        <ul>
+          <li>Contacts</li>
+          <li>Conditions</li>
+          <li>Privacy</li>
+        </ul>
+        <ul>
+          <li>Contacts</li>
+          <li>Conditions</li>
+          <li>Privacy</li>
+        </ul>
+      </footer> 
+ 
+
+<body>
+ 
+  
+
+</body>
+
+</html>
